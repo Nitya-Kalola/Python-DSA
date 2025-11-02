@@ -77,9 +77,9 @@ Combined Example:
         p = x+y+z
         print(p)
 
-    Input Space: x,y,z = 1,2,3, Because x,y,z are actual input storing varibles.
+    Input Space: x,y,z = 1,2,3, Because x,y,z are actual input storing variables.
 
-    Auxiliary Space: p = x+y+z, Because p is a Temporary Variable that used to store Output of the Proble.
+    Auxiliary Space: p = x+y+z, Because p is a Temporary Variable that used to store Output of the Problem.
 
 """
 

@@ -3,7 +3,7 @@
 """
 """
 
-# Way 1 ->  Extream Brute Force(Worst Code)
+# Way 1 ->  Extreme Brute Force(Worst Code)
 num = int(input("Enter the Number : "))
 X = num
 List = []
